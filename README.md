@@ -3,7 +3,7 @@ NP Sales Dashboard
 About This Project
 Hi! This is a dummy data analysis project I created using Excel and Power Query to practice my skills and build my portfolio. It’s based on sample sales data from FNP (Ferns N Petals) and shows how sales, customers, and products are performing across different occasions like Diwali, Holi, etc.
 
-🔧 What I Did
+What I Did
 Using Power Query, I cleaned and prepared the data:
 
 Extracted Day, Month, Year from the order date
